@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,Sirimavilla Kaushik</h1>
-<p align="center"><strong>🚀 Full Stack Developer | 💡 Lifelong Learner | 🛠 Tech Enthusiast</strong></p>
+<p align="center"><strong>🚀 Full Stack Developer | 🛠 Tech Enthusiast</strong></p>
 <h2>👨‍💻 About Me</h2>
 
 <pre style="background-color:#0d1117; color:#c9d1d9; padding: 16px; border-radius: 10px; font-size: 16px; overflow-x: auto;">
